@@ -1,0 +1,33 @@
+.card{
+    width: 18rem;
+    height:430px;
+    width: 320px;
+    
+}
+.cardSection{
+    display:flex;
+    flex-wrap:wrap;
+    margin:20px 100px 0pc 100px;
+    padding:10px;
+    gap:10px;
+    justify-content: space-evenly;
+}
+.banner{
+    height:300px;
+    width:100%;
+}
+.navigation{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.navigationSection{
+    margin:0px 100px 0 100px;
+}
+.navBarHalf{
+    display:flex;
+    justify-content: end;
+}
