@@ -5,7 +5,7 @@ import DataSciencePage from './Pages/dataSciencePage'
 import CyberSecurityPage from './Pages/cyberSecurityPage'
 import CareerPage from './Pages/careerPage'
 import NoPage from './Pages/noPage'
-import AllPage from './Pages/AllPage'
+import AllPage from './Pages/allPage'
 
 
 
