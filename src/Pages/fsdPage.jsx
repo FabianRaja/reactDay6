@@ -37,7 +37,7 @@ export default function FsdPage(){
       description:"Today's world is rapidly evolving into a technological landscape, Owing to these dynamics, the demand"
      },
      {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-1536x804.png",
+      img:"https://www.guvi.in/blog/wp-content/uploads/2023/10/Featured-Image-top-product-based-companies-for-full-stack-developers.webp",
       title:"The Top 10 Tools Every Full-Stack Developer Should Master in 2023",
       description:"‍As a full-stack developer, having the right set of tools is crucial for your success."
      },

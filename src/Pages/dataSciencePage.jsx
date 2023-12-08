@@ -26,7 +26,7 @@ export default function DataSciencePage(){
       description:"India has been making some serious waves in the world of data. Just like the"
      },
      {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Data-Science-Tools-1-1536x804.png",
+      img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
       title:"Top 10 Data Science Tools in 2023",
       description:"Data Science is an in-demand profession and will continue growing in the coming years. From"
      },

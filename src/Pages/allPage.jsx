@@ -7,7 +7,7 @@ export default function AllPage(){
   //array data of objects for allPage
   const data=[
     {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/ux-2.png",
+      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-What-Does-a-UIUX-Designer-Do-Career-Guide.webp",
       title:"12 Unique UI/UX Project Ideas to Boost Your Portfolio",
       description:"As a UX designer, building a strong portfolio is crucial to landing your dream job"
      },
@@ -22,7 +22,7 @@ export default function AllPage(){
       description:"The success of a product or a service not only depends on its features but"
      },
      {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/ux-1.png",
+      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-What-Does-a-UIUX-Designer-Do-Career-Guide.webp",
       title:"What is UI/UX? Top Things to Know in 2023",
       description:"In the current technology-driven world, the terms UI(User Interface) and UX(User Experience) have"
      },
@@ -37,12 +37,12 @@ export default function AllPage(){
       description:"In today's digital age, the intersection of economics and technology offers exciting career opportunities for"
      },
      {
-       img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Best-AI-Tools-for-Coding-01-1536x804.png",
+       img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-What-Does-a-UIUX-Designer-Do-Career-Guide.webp",
        title:"6 Best AI Tools for Coding",
        description:"Are you into coding and want to make your life easier? Then you're in the"
       },
       {
-       img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/Software-Testing-vs.-Quality-Assurance-QA-01.png",
+       img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Blockchain.webp",
        title:"Software Testing vs. Quality Assurance (QA)",
        description:"When it comes to making computer programs and apps, two important things are making sure"
       },
@@ -77,7 +77,7 @@ export default function AllPage(){
         description:"Today's world is rapidly evolving into a technological landscape, Owing to these dynamics, the demand"
        },
        {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-1536x804.png",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Blockchain.webp",
         title:"The Top 10 Tools Every Full-Stack Developer Should Master in 2023",
         description:"‍As a full-stack developer, having the right set of tools is crucial for your success."
        },
@@ -107,7 +107,7 @@ export default function AllPage(){
         description:"India has been making some serious waves in the world of data. Just like the"
        },
        {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Data-Science-Tools-1-1536x804.png",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
         title:"Top 10 Data Science Tools in 2023",
         description:"Data Science is an in-demand profession and will continue growing in the coming years. From"
        },
@@ -137,27 +137,27 @@ export default function AllPage(){
         description:"Have you ever wondered what hacking is all about? It’s a big deal in today’s"
        },
        {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
         title:"Cybersecurity Vs Ethical Hacking: Top 10 Differences",
         description:"Cybersecurity & Ethical hacking and have been key in making sure that your data online"
        },
        {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
         title:"8 Different Types of Cybersecurity and Threats Involved",
         description:"Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from"
        },
        {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1536x864.png",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
         title:"Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
         description:"Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well,"
        },
        {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
         title:"Top 7 Cyber Security Attacks in Real Life",
         description:"Cyber security attacks are the type of actions that are designed to destroy, steal, modify,"
        },
        {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-1536x804.png",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp",
         title:"The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
         description:"There is something fascinating about a lone hacker in black hoodies using a single system"
        },
@@ -167,7 +167,7 @@ export default function AllPage(){
         description:"Cybersecurity jobs are also one of the most handsomely paying jobs in recent times. Furthermore,"
        },
        {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp",
         title:"How Is Cyber Security Important To Our Lives?",
         description:"Cybersecurity is an exact solution that is sought either by a billionaire with a massive,"
        }
@@ -183,7 +183,7 @@ export default function AllPage(){
  
   
   //bannerImg is passed for this page alone
-  const bannerImg="https://www.guvi.in/blog/wp-content/uploads/2022/10/blog-header-1536x236.png";
+  const bannerImg="https://cutshort.io/_next/image?url=https%3A%2F%2Fcdnv2.cutshort.io%2Fcompany-static%2F63a182555c4e8e00f1678aac%2Fuser_uploaded_data%2Fcover_pictures%2Fcompany_cover_pic_BTggIQmJ.jpg&w=750&q=80";
 
     return(
       <WorkSpace bannerImg={bannerImg}>

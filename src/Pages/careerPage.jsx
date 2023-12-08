@@ -7,7 +7,7 @@ export default function CareerPage(){
 
    
    const data=[{
-    img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/ux-2.png",
+    img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Steps-In-The-UX-Design-Process.webp",
     title:"12 Unique UI/UX Project Ideas to Boost Your Portfolio",
     description:"As a UX designer, building a strong portfolio is crucial to landing your dream job"
    },
@@ -22,7 +22,7 @@ export default function CareerPage(){
     description:"The success of a product or a service not only depends on its features but"
    },
    {
-    img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/ux-1.png",
+    img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-What-Does-a-UIUX-Designer-Do-Career-Guide.webp",
     title:"What is UI/UX? Top Things to Know in 2023",
     description:"In the current technology-driven world, the terms UI(User Interface) and UX(User Experience) have"
    },
@@ -37,12 +37,12 @@ export default function CareerPage(){
     description:"In today's digital age, the intersection of economics and technology offers exciting career opportunities for"
    },
    {
-     img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Best-AI-Tools-for-Coding-01-1536x804.png",
+     img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Steps-In-The-UX-Design-Process.webp",
      title:"6 Best AI Tools for Coding",
      description:"Are you into coding and want to make your life easier? Then you're in the"
     },
     {
-     img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/Software-Testing-vs.-Quality-Assurance-QA-01.png",
+     img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Data-Engineering-Projects-How-to-Build-Real-time-Streaming-Data-Pipelines.webp",
      title:"Software Testing vs. Quality Assurance (QA)",
      description:"When it comes to making computer programs and apps, two important things are making sure"
     }
