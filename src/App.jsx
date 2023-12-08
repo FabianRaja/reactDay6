@@ -11,6 +11,7 @@ import NoPage from './Pages/noPage'
 
 function App() {
 
+  //creating router pages using react-router-dom
   return (
     <Routes>
       <Route exact path="/" element={<AllPage  /> }/>

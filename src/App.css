@@ -31,3 +31,126 @@
     display:flex;
     justify-content: end;
 }
+.noPageContent{
+    font-size: larger;
+    text-align: center;
+    margin-top: 60px;
+}
+@media screen and (max-width:209px){
+    .banner{
+        height: 100px;
+        width: fit-content;
+    }
+    .card{
+        width:140px;
+        height: max-content;
+    }
+    .navigationSection{
+        margin: 0;
+    }
+    .cardSection{
+        margin: 0;
+    }
+}
+@media screen and (min-width:210px) and (max-width:249px){
+    .banner{
+        height: 120px;
+        width: fit-content;
+    }
+    .card{
+        width:220px;
+        height: max-content;
+    }
+    .navigationSection{
+        display:flex;
+        justify-content:center;
+    }
+    .cardSection{
+        margin: 0;
+    }
+}
+@media screen and (min-width:250px) and (max-width:408px){
+    .banner{
+        height: 130px;
+    }
+    .navigationSection{
+        display:flex;
+        justify-content: center;
+    }
+    .card{
+        width:250px;
+    }
+}
+@media screen and (min-width:409px) and (max-width:650px){
+    .banner{
+        height: 180px;
+    }
+    .navigationSection{
+        margin: 10px;
+    }
+    .navigation{
+        height: 120px;
+        gap:10px;
+    }
+    .buttonSection{
+        height: 60px;
+    }
+    .card{
+        width:350px;
+    }
+
+}
+@media screen and (min-width:651px) and (max-width:1000px){
+    .banner{
+        height: 220px;
+    }
+    .navigationSection{
+        margin: 10px;
+    }
+    .navigation{
+        height: 120px;
+        gap:10px;
+    }
+    .buttonSection{
+        height: 60px;
+    }
+    .card{
+        width:250px;
+    }
+    .cardSection{
+        display:flex;
+        flex-wrap:wrap;
+        margin:0px;
+        padding:10px;
+        gap:10px;
+        justify-content: space-evenly;
+    }
+
+}
+@media screen and (min-width:1001px) and (max-width:1199px){
+    .banner{
+        height: 220px;
+    }
+    .navigationSection{
+        margin: 10px;
+    }
+    .navigation{
+        height: 120px;
+        gap:10px;
+    }
+    .buttonSection{
+        height: 60px;
+    }
+    .card{
+        width:250px;
+    }
+    .cardSection{
+        display:flex;
+        flex-wrap:wrap;
+        margin:50px;
+        padding:35px;
+        gap:10px;
+        justify-content: space-evenly;
+    }
+
+}

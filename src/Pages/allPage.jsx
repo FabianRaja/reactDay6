@@ -4,6 +4,7 @@ import Cards from "../Components/Cards";
 
 export default function AllPage(){
    
+  //array data of objects for allPage
   const data=[
     {
       img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/ux-2.png",
@@ -172,14 +173,18 @@ export default function AllPage(){
        }
    ]
 
+  
   //to shuffle the objects of array everytime the page is loaded
+  //used to make this page more attractive
+
   const shuffle=arr=>[...arr].sort(()=>Math.random()-0.5);
   const shuffledData=shuffle(data);
 
  
   
-
+  //bannerImg is passed for this page alone
   const bannerImg="https://www.guvi.in/blog/wp-content/uploads/2022/10/blog-header-1536x236.png";
+
     return(
       <WorkSpace bannerImg={bannerImg}>
         <div className="cardSection">

@@ -8,6 +8,7 @@ export default function WorkSpace({children,bannerImg}){
     return(
         <div className="workSpace">
           
+            {/* navBar imported from bootstrap */}
             <div className="navBar">
                         <nav className="navbar navbar-expand-lg ">
                         <div className="container-fluid">
@@ -73,12 +74,12 @@ export default function WorkSpace({children,bannerImg}){
             </div>
             </nav>
             </div>
-
+            {/* BannerSection (img source will be passed by the pages)*/}
             <div className="bannerSection">
                 <img className="banner" src={bannerImg}/>
             </div>
 
-
+              {/* navigation imported from bootstrap */}
             <div className="navigationSection">
                 <ul className="nav nav-tabs nav-justified navigation">
                 <li className="nav-item">
@@ -87,28 +88,29 @@ export default function WorkSpace({children,bannerImg}){
                 >ALL</button>
                 </li>
                 <li className="nav-item">
-                <button className="nav-link active shadow" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true"
+                <button className="nav-link active shadow buttonSection" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true"
                 onClick={()=>navigate("/fsd")}
                 >FULL STACK DEVELOPMENT</button>
                 </li>
                 <li className="nav-item">
-                <button className="nav-link active shadow" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true"
+                <button className="nav-link active shadow buttonSection" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true"
                 onClick={()=>navigate("/dataScience")}
                 >DATA SCIENCE</button>
                 </li>
                 <li className="nav-item">
-                <button className="nav-link active shadow" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true"
+                <button className="nav-link active shadow buttonSection" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true"
                 onClick={()=>navigate("/cyberSecurity")}
                 >CYBER SECURITY</button>
                 </li>
                 <li className="nav-item">
-                <button className="nav-link active shadow" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true"
+                <button className="nav-link active shadow buttonSection" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true"
                 onClick={()=>navigate("/career")}
                 >CAREER</button>
                 </li>
                 </ul>
             </div>
-
+            
+            {/*children property used for varied content for each and every page */}
             <div>
                 {children}
             </div>

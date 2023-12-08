@@ -5,6 +5,7 @@ import Cards from "../Components/Cards";
 export default function CareerPage(){
    const bannerImg="https://www.rankuptechnologies.com/wp-content/uploads/2022/05/career-1.jpg";
 
+   
    const data=[{
     img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/ux-2.png",
     title:"12 Unique UI/UX Project Ideas to Boost Your Portfolio",
